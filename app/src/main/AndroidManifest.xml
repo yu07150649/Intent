@@ -20,6 +20,12 @@
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
+        <activity android:name=".IntentDemo3" android:label="yu">
+            <intent-filter>
+                <action android:name="cn.edu.gdmec.yu"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
 
     </application>
 
